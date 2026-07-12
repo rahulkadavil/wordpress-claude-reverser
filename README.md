@@ -156,3 +156,9 @@ Patch explanation
 Reproduction template
 
 References
+
+## Steps to run
+
+1. Git Clone the repository
+2. Open claude code and set directory to the cloned directory
+3. Run commands such as ```Find latest CVE in wordpress related to SSRF and reverse it```
