@@ -103,10 +103,6 @@ advisory.md
 
 patch.md
 
-diff.md
-
-timeline.md
-
 reproduction.md
 
 ## Never
