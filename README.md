@@ -1,5 +1,4 @@
-# WordPress Vulnerability Analyzer
-
+# WordPress Vulnerability Reverser
 ## Goal
 
 Automatically collect newly published WordPress plugin and theme vulnerabilities
